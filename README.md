@@ -1,5 +1,6 @@
 ## QR-code
 
+#### install required packages by running below command
 ```
 pip install pyqrcode
 pip install pypng
